@@ -1,0 +1,14 @@
+C:\Users\ALITE\source\repos\Sem2Lab3\Sem2Lab3\bin\Debug\net8.0\Sem2Lab3.exe
+C:\Users\ALITE\source\repos\Sem2Lab3\Sem2Lab3\bin\Debug\net8.0\Sem2Lab3.deps.json
+C:\Users\ALITE\source\repos\Sem2Lab3\Sem2Lab3\bin\Debug\net8.0\Sem2Lab3.runtimeconfig.json
+C:\Users\ALITE\source\repos\Sem2Lab3\Sem2Lab3\bin\Debug\net8.0\Sem2Lab3.dll
+C:\Users\ALITE\source\repos\Sem2Lab3\Sem2Lab3\bin\Debug\net8.0\Sem2Lab3.pdb
+C:\Users\ALITE\source\repos\Sem2Lab3\Sem2Lab3\obj\Debug\net8.0\Sem2Lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALITE\source\repos\Sem2Lab3\Sem2Lab3\obj\Debug\net8.0\Sem2Lab3.AssemblyInfoInputs.cache
+C:\Users\ALITE\source\repos\Sem2Lab3\Sem2Lab3\obj\Debug\net8.0\Sem2Lab3.AssemblyInfo.cs
+C:\Users\ALITE\source\repos\Sem2Lab3\Sem2Lab3\obj\Debug\net8.0\Sem2Lab3.csproj.CoreCompileInputs.cache
+C:\Users\ALITE\source\repos\Sem2Lab3\Sem2Lab3\obj\Debug\net8.0\Sem2Lab3.dll
+C:\Users\ALITE\source\repos\Sem2Lab3\Sem2Lab3\obj\Debug\net8.0\refint\Sem2Lab3.dll
+C:\Users\ALITE\source\repos\Sem2Lab3\Sem2Lab3\obj\Debug\net8.0\Sem2Lab3.pdb
+C:\Users\ALITE\source\repos\Sem2Lab3\Sem2Lab3\obj\Debug\net8.0\Sem2Lab3.genruntimeconfig.cache
+C:\Users\ALITE\source\repos\Sem2Lab3\Sem2Lab3\obj\Debug\net8.0\ref\Sem2Lab3.dll

@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ALITE\\source\\repos\\Sem2Lab3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A53534DD-F8A1-4296-9ED9-F36778018581}|Sem2Lab3\\Sem2Lab3.csproj|c:\\users\\alite\\source\\repos\\sem2lab3\\sem2lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53534DD-F8A1-4296-9ED9-F36778018581}|Sem2Lab3\\Sem2Lab3.csproj|solutionrelative:sem2lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53534DD-F8A1-4296-9ED9-F36778018581}|Sem2Lab3\\Sem2Lab3.csproj|c:\\users\\alite\\source\\repos\\sem2lab3\\sem2lab3\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53534DD-F8A1-4296-9ED9-F36778018581}|Sem2Lab3\\Sem2Lab3.csproj|solutionrelative:sem2lab3\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53534DD-F8A1-4296-9ED9-F36778018581}|Sem2Lab3\\Sem2Lab3.csproj|c:\\users\\alite\\source\\repos\\sem2lab3\\sem2lab3\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53534DD-F8A1-4296-9ED9-F36778018581}|Sem2Lab3\\Sem2Lab3.csproj|solutionrelative:sem2lab3\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53534DD-F8A1-4296-9ED9-F36778018581}|Sem2Lab3\\Sem2Lab3.csproj|c:\\users\\alite\\source\\repos\\sem2lab3\\sem2lab3\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53534DD-F8A1-4296-9ED9-F36778018581}|Sem2Lab3\\Sem2Lab3.csproj|solutionrelative:sem2lab3\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53534DD-F8A1-4296-9ED9-F36778018581}|Sem2Lab3\\Sem2Lab3.csproj|c:\\users\\alite\\source\\repos\\sem2lab3\\sem2lab3\\taxiaggregator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53534DD-F8A1-4296-9ED9-F36778018581}|Sem2Lab3\\Sem2Lab3.csproj|solutionrelative:sem2lab3\\taxiaggregator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53534DD-F8A1-4296-9ED9-F36778018581}|Sem2Lab3\\Sem2Lab3.csproj|c:\\users\\alite\\source\\repos\\sem2lab3\\sem2lab3\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53534DD-F8A1-4296-9ED9-F36778018581}|Sem2Lab3\\Sem2Lab3.csproj|solutionrelative:sem2lab3\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53534DD-F8A1-4296-9ED9-F36778018581}|Sem2Lab3\\Sem2Lab3.csproj|c:\\users\\alite\\source\\repos\\sem2lab3\\sem2lab3\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53534DD-F8A1-4296-9ED9-F36778018581}|Sem2Lab3\\Sem2Lab3.csproj|solutionrelative:sem2lab3\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53534DD-F8A1-4296-9ED9-F36778018581}|Sem2Lab3\\Sem2Lab3.csproj|c:\\users\\alite\\source\\repos\\sem2lab3\\sem2lab3\\argsoftaxiorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53534DD-F8A1-4296-9ED9-F36778018581}|Sem2Lab3\\Sem2Lab3.csproj|solutionrelative:sem2lab3\\argsoftaxiorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53534DD-F8A1-4296-9ED9-F36778018581}|Sem2Lab3\\Sem2Lab3.csproj|c:\\users\\alite\\source\\repos\\sem2lab3\\sem2lab3\\argsoftaxidriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53534DD-F8A1-4296-9ED9-F36778018581}|Sem2Lab3\\Sem2Lab3.csproj|solutionrelative:sem2lab3\\argsoftaxidriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\ALITE\\source\\repos\\Sem2Lab3\\Sem2Lab3\\Order.cs",
+              "RelativeDocumentMoniker": "Sem2Lab3\\Order.cs",
+              "ToolTip": "C:\\Users\\ALITE\\source\\repos\\Sem2Lab3\\Sem2Lab3\\Order.cs",
+              "RelativeToolTip": "Sem2Lab3\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T21:30:31.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ArgsOfTaxiDriver.cs",
+              "DocumentMoniker": "C:\\Users\\ALITE\\source\\repos\\Sem2Lab3\\Sem2Lab3\\ArgsOfTaxiDriver.cs",
+              "RelativeDocumentMoniker": "Sem2Lab3\\ArgsOfTaxiDriver.cs",
+              "ToolTip": "C:\\Users\\ALITE\\source\\repos\\Sem2Lab3\\Sem2Lab3\\ArgsOfTaxiDriver.cs",
+              "RelativeToolTip": "Sem2Lab3\\ArgsOfTaxiDriver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T21:17:00.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\ALITE\\source\\repos\\Sem2Lab3\\Sem2Lab3\\Car.cs",
+              "RelativeDocumentMoniker": "Sem2Lab3\\Car.cs",
+              "ToolTip": "C:\\Users\\ALITE\\source\\repos\\Sem2Lab3\\Sem2Lab3\\Car.cs",
+              "RelativeToolTip": "Sem2Lab3\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T19:56:33.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Driver.cs",
+              "DocumentMoniker": "C:\\Users\\ALITE\\source\\repos\\Sem2Lab3\\Sem2Lab3\\Driver.cs",
+              "RelativeDocumentMoniker": "Sem2Lab3\\Driver.cs",
+              "ToolTip": "C:\\Users\\ALITE\\source\\repos\\Sem2Lab3\\Sem2Lab3\\Driver.cs",
+              "RelativeToolTip": "Sem2Lab3\\Driver.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAASwAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T19:53:58.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaxiAggregator.cs",
+              "DocumentMoniker": "C:\\Users\\ALITE\\source\\repos\\Sem2Lab3\\Sem2Lab3\\TaxiAggregator.cs",
+              "RelativeDocumentMoniker": "Sem2Lab3\\TaxiAggregator.cs",
+              "ToolTip": "C:\\Users\\ALITE\\source\\repos\\Sem2Lab3\\Sem2Lab3\\TaxiAggregator.cs",
+              "RelativeToolTip": "Sem2Lab3\\TaxiAggregator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T19:51:39.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\ALITE\\source\\repos\\Sem2Lab3\\Sem2Lab3\\Address.cs",
+              "RelativeDocumentMoniker": "Sem2Lab3\\Address.cs",
+              "ToolTip": "C:\\Users\\ALITE\\source\\repos\\Sem2Lab3\\Sem2Lab3\\Address.cs",
+              "RelativeToolTip": "Sem2Lab3\\Address.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T19:47:21.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ArgsOfTaxiOrder.cs",
+              "DocumentMoniker": "C:\\Users\\ALITE\\source\\repos\\Sem2Lab3\\Sem2Lab3\\ArgsOfTaxiOrder.cs",
+              "RelativeDocumentMoniker": "Sem2Lab3\\ArgsOfTaxiOrder.cs",
+              "ToolTip": "C:\\Users\\ALITE\\source\\repos\\Sem2Lab3\\Sem2Lab3\\ArgsOfTaxiOrder.cs",
+              "RelativeToolTip": "Sem2Lab3\\ArgsOfTaxiOrder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T19:41:56.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\ALITE\\source\\repos\\Sem2Lab3\\Sem2Lab3\\Customer.cs",
+              "RelativeDocumentMoniker": "Sem2Lab3\\Customer.cs",
+              "ToolTip": "C:\\Users\\ALITE\\source\\repos\\Sem2Lab3\\Sem2Lab3\\Customer.cs",
+              "RelativeToolTip": "Sem2Lab3\\Customer.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAhwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T19:41:00.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ALITE\\source\\repos\\Sem2Lab3\\Sem2Lab3\\Program.cs",
+              "RelativeDocumentMoniker": "Sem2Lab3\\Program.cs",
+              "ToolTip": "C:\\Users\\ALITE\\source\\repos\\Sem2Lab3\\Sem2Lab3\\Program.cs",
+              "RelativeToolTip": "Sem2Lab3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T19:39:22.882Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
